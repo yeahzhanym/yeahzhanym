@@ -1,5 +1,5 @@
 # git-profile
-main page of my github
+Hi!
 
 My name is Zhoodarbek. I'm GO Software Engineer🧸![Views](https://komarev.com/ghpvc/?username=yeahzhanym&color=blueviolet)
 
