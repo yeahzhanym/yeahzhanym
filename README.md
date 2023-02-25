@@ -1,7 +1,7 @@
 # git-profile
-Hi!
 
-My name is Zhoodarbek. I'm GO Software Engineer🧸![Views](https://komarev.com/ghpvc/?username=yeahzhanym&color=blueviolet)
+Hi!
+My name is Zhoodarbek. I'm GO Software Developer with no job🧸
 
 ![GIPHY](https://media.giphy.com/media/3orifdO6eKr9YBdOBq/giphy.gif)
 ## Skills
@@ -15,6 +15,3 @@ Software Engineer:
 Languages: 
 ![English-Kyrgyz](https://img.shields.io/badge/english-russian%20-%23181717.svg?&style=for-the-badge)
 ![Kazakh-Russian](https://img.shields.io/badge/kazakh-kyrgyz%20-%23181717.svg?&style=for-the-badge)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeahzhanym&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahzhanym&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
