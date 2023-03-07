@@ -2,7 +2,7 @@
 
 Hi!
 My name is Zhoodarbek. I'm GO Software Developer with no job🧸
-## My. Skills
+## My.Skills
 Software Engineer:
 ![GO-JS](https://img.shields.io/badge/go-js%20-%23181717.svg?&style=for-the-badge)
 ![SQL-NoSQL](https://img.shields.io/badge/sql-nosql%20-%23181717.svg?&style=for-the-badge)
@@ -14,5 +14,5 @@ Languages:
 ![English-Kyrgyz](https://img.shields.io/badge/english-russian%20-%23181717.svg?&style=for-the-badge)
 ![Kazakh-Russian](https://img.shields.io/badge/kazakh-kyrgyz%20-%23181717.svg?&style=for-the-badge)
 
-##Bart Simpson
+###Bart
 ![GIPHYBART](https://media.giphy.com/media/3orifdO6eKr9YBdOBq/giphy.gif) ![GIPHYSTUDY](https://media.giphy.com/media/l0G16NXf69TffpJUQ/giphy.gif)
